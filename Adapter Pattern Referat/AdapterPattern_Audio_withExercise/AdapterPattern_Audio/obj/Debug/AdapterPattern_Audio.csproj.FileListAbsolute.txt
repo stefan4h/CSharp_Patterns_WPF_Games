@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio\AdapterPattern_Audio\bin\Debug\AdapterPattern_Audio.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio\AdapterPattern_Audio\bin\Debug\AdapterPattern_Audio.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio\AdapterPattern_Audio\bin\Debug\AdapterPattern_Audio.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio\AdapterPattern_Audio\obj\Debug\AdapterPattern_Audio.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio\AdapterPattern_Audio\obj\Debug\AdapterPattern_Audio.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio\AdapterPattern_Audio\obj\Debug\AdapterPattern_Audio.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio_withExercise\AdapterPattern_Audio\bin\Debug\AdapterPattern_Audio.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio_withExercise\AdapterPattern_Audio\obj\Debug\AdapterPattern_Audio.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio_withExercise\AdapterPattern_Audio\obj\Debug\AdapterPattern_Audio.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio_withExercise\AdapterPattern_Audio\bin\Debug\AdapterPattern_Audio.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio_withExercise\AdapterPattern_Audio\bin\Debug\AdapterPattern_Audio.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Adapter Pattern Referat\AdapterPattern_Audio_withExercise\AdapterPattern_Audio\obj\Debug\AdapterPattern_Audio.csprojResolveAssemblyReference.cache
