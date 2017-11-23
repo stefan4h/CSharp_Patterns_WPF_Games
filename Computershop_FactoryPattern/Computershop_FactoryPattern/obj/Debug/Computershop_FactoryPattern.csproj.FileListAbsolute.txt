@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Computershop_FactoryPattern\Computershop_FactoryPattern\bin\Debug\Computershop_FactoryPattern.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Computershop_FactoryPattern\Computershop_FactoryPattern\bin\Debug\Computershop_FactoryPattern.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Computershop_FactoryPattern\Computershop_FactoryPattern\bin\Debug\Computershop_FactoryPattern.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Computershop_FactoryPattern\Computershop_FactoryPattern\obj\Debug\Computershop_FactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Computershop_FactoryPattern\Computershop_FactoryPattern\obj\Debug\Computershop_FactoryPattern.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Computershop_FactoryPattern\Computershop_FactoryPattern\obj\Debug\Computershop_FactoryPattern.pdb
