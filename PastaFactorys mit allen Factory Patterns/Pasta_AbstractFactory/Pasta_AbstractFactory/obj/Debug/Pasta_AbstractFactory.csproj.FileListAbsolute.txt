@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_AbstractFactory\Pasta_AbstractFactory\bin\Debug\Pasta_AbstractFactory.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_AbstractFactory\Pasta_AbstractFactory\bin\Debug\Pasta_AbstractFactory.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_AbstractFactory\Pasta_AbstractFactory\bin\Debug\Pasta_AbstractFactory.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_AbstractFactory\Pasta_AbstractFactory\obj\Debug\Pasta_AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_AbstractFactory\Pasta_AbstractFactory\obj\Debug\Pasta_AbstractFactory.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_AbstractFactory\Pasta_AbstractFactory\obj\Debug\Pasta_AbstractFactory.pdb

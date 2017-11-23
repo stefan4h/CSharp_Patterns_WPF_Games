@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_SimpleFactory\Pasta_SimpleFactory\bin\Debug\Pasta_SimpleFactory.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_SimpleFactory\Pasta_SimpleFactory\obj\Debug\Pasta_SimpleFactory.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_SimpleFactory\Pasta_SimpleFactory\bin\Debug\Pasta_SimpleFactory.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_SimpleFactory\Pasta_SimpleFactory\bin\Debug\Pasta_SimpleFactory.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_SimpleFactory\Pasta_SimpleFactory\obj\Debug\Pasta_SimpleFactory.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Pasta_SimpleFactory\Pasta_SimpleFactory\obj\Debug\Pasta_SimpleFactory.pdb
