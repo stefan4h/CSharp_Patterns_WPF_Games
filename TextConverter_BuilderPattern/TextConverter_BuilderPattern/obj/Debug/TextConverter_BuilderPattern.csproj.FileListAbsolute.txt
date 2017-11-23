@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\TextConverter_BuilderPattern\TextConverter_BuilderPattern\bin\Debug\TextConverter_BuilderPattern.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\TextConverter_BuilderPattern\TextConverter_BuilderPattern\bin\Debug\TextConverter_BuilderPattern.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\TextConverter_BuilderPattern\TextConverter_BuilderPattern\bin\Debug\TextConverter_BuilderPattern.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\TextConverter_BuilderPattern\TextConverter_BuilderPattern\obj\Debug\TextConverter_BuilderPattern.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\TextConverter_BuilderPattern\TextConverter_BuilderPattern\obj\Debug\TextConverter_BuilderPattern.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\TextConverter_BuilderPattern\TextConverter_BuilderPattern\obj\Debug\TextConverter_BuilderPattern.pdb
