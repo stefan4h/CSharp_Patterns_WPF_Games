@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Mediator_Chatroom_Exercise_Kauer\Mediator_Chatroom_Exercise_Kauer\bin\Debug\Mediator_Chatroom_Exercise_Kauer.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Mediator_Chatroom_Exercise_Kauer\Mediator_Chatroom_Exercise_Kauer\bin\Debug\Mediator_Chatroom_Exercise_Kauer.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Mediator_Chatroom_Exercise_Kauer\Mediator_Chatroom_Exercise_Kauer\bin\Debug\Mediator_Chatroom_Exercise_Kauer.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Mediator_Chatroom_Exercise_Kauer\Mediator_Chatroom_Exercise_Kauer\obj\Debug\Mediator_Chatroom_Exercise_Kauer.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Mediator_Chatroom_Exercise_Kauer\Mediator_Chatroom_Exercise_Kauer\obj\Debug\Mediator_Chatroom_Exercise_Kauer.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Mediator_Chatroom_Exercise_Kauer\Mediator_Chatroom_Exercise_Kauer\obj\Debug\Mediator_Chatroom_Exercise_Kauer.pdb
