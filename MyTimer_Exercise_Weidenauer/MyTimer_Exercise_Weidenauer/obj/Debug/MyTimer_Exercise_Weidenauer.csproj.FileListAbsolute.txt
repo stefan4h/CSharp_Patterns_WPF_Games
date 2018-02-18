@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\MyTimer_Exercise_Weidenauer\MyTimer_Exercise_Weidenauer\bin\Debug\MyTimer_Exercise_Weidenauer.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\MyTimer_Exercise_Weidenauer\MyTimer_Exercise_Weidenauer\bin\Debug\MyTimer_Exercise_Weidenauer.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\MyTimer_Exercise_Weidenauer\MyTimer_Exercise_Weidenauer\bin\Debug\MyTimer_Exercise_Weidenauer.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\MyTimer_Exercise_Weidenauer\MyTimer_Exercise_Weidenauer\obj\Debug\MyTimer_Exercise_Weidenauer.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\MyTimer_Exercise_Weidenauer\MyTimer_Exercise_Weidenauer\obj\Debug\MyTimer_Exercise_Weidenauer.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\MyTimer_Exercise_Weidenauer\MyTimer_Exercise_Weidenauer\obj\Debug\MyTimer_Exercise_Weidenauer.pdb
