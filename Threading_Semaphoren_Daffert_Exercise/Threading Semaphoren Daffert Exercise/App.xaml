@@ -1,0 +1,9 @@
+﻿<Application x:Class="Threading_Semaphoren_Daffert_Exercise.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Threading_Semaphoren_Daffert_Exercise"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

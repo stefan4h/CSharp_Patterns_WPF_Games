@@ -1,0 +1,14 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\bin\Debug\Threading Semaphoren Daffert Exercise.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\bin\Debug\Threading Semaphoren Daffert Exercise.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\bin\Debug\Threading Semaphoren Daffert Exercise.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\Threading Semaphoren Daffert Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\MainWindow.g.cs
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\App.g.cs
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\Threading Semaphoren Daffert Exercise_MarkupCompile.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\Threading Semaphoren Daffert Exercise_MarkupCompile.lref
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\MainWindow.baml
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\Threading Semaphoren Daffert Exercise.g.resources
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\Threading_Semaphoren_Daffert_Exercise.Properties.Resources.resources
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\Threading Semaphoren Daffert Exercise.csproj.GenerateResource.Cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\Threading Semaphoren Daffert Exercise.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Ueben\Threading Semaphoren Daffert Exercise\Threading Semaphoren Daffert Exercise\obj\Debug\Threading Semaphoren Daffert Exercise.pdb
