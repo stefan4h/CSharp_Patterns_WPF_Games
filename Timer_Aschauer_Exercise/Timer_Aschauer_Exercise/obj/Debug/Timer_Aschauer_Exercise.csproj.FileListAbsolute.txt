@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Timer_Aschauer_Exercise\Timer_Aschauer_Exercise\bin\Debug\Timer_Aschauer_Exercise.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Timer_Aschauer_Exercise\Timer_Aschauer_Exercise\obj\Debug\Timer_Aschauer_Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Timer_Aschauer_Exercise\Timer_Aschauer_Exercise\bin\Debug\Timer_Aschauer_Exercise.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Timer_Aschauer_Exercise\Timer_Aschauer_Exercise\bin\Debug\Timer_Aschauer_Exercise.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Timer_Aschauer_Exercise\Timer_Aschauer_Exercise\obj\Debug\Timer_Aschauer_Exercise.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\Timer_Aschauer_Exercise\Timer_Aschauer_Exercise\obj\Debug\Timer_Aschauer_Exercise.pdb
