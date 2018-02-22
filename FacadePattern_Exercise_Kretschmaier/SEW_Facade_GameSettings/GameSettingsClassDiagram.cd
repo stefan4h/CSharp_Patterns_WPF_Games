@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SEW_Facade_GameSettings.GraphicsPreferences">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAQAAAEAAAQBAAQAAAAAA=</HashCode>
+      <FileName>GraphicsPreferences.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.GameGeneralSettings" BaseTypeListCollapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAARAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.GeneralSettings" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAEAQAAAAEAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.GameSettings" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAEAAAAAAAAAAAAIAEAAAAAAAI=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.GeneralPreferences">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.GamePreferences">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAEAAAAAAAA=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.SoundPreferences">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAoAA=</HashCode>
+      <FileName>SoundPreferences.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.HighSoundQualitySetting">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAAAAAACAAAAAEAAAAAAAAAAQAAgAAAABAoAA=</HashCode>
+      <FileName>SoundSettings\HighSoundSetting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.LowSoundQualitySetting">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAAAAAACAAAAAEAAAAAAAAAAQAAgAAAABAoAA=</HashCode>
+      <FileName>SoundSettings\LowSoundQualitySetting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.MediumSoundQualitySetting">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAAAAAACAAAAAEAAAAAAAAAAQAAgAAAABAoAA=</HashCode>
+      <FileName>SoundSettings\MediumSoundQualitySetting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.HighGraphicSetting">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIABAAAAAABEAAAAQAAAEBAAQJAAQAAAAAA=</HashCode>
+      <FileName>GraphicSettings\HighGraphicSetting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.LowGraphicSetting">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIABAAAAAABEAAAAQAAAEBAAQJAAQAAAAAA=</HashCode>
+      <FileName>GraphicSettings\LowGraphicSetting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SEW_Facade_GameSettings.MediumGraphicSetting">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIABAAAAAABEAAAAQAAAEBAAQJAAQAAAAAA=</HashCode>
+      <FileName>GraphicSettings\MediumGraphicSettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SEW_Facade_GameSettings.IGameGeneralSettingFacade">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SEW_Facade_GameSettings.IGeneralSettings">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SEW_Facade_GameSettings.IGameSettings">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SEW_Facade_GameSettings.ISoundSetting">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAACAAAAAEAAAAAAAAAAAAAgAAAABAAAA=</HashCode>
+      <FileName>Interfaces\ISound.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SEW_Facade_GameSettings.IGraphics">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABAAAAAABEAAAAAAAAABAAAIAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SEW_Facade_GameSettings.EDifficulty">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAIAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SEW_Facade_GameSettings.EDisplay">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAIAAAAACAAAAAA=</HashCode>
+      <FileName>IGeneralSettingFacade.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SEW_Facade_GameSettings.EQuality">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Interfaces\IGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
