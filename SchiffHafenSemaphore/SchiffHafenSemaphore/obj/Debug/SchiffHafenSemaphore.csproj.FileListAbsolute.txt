@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\SchiffHafenSemaphore\SchiffHafenSemaphore\bin\Debug\SchiffHafenSemaphore.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\SchiffHafenSemaphore\SchiffHafenSemaphore\obj\Debug\SchiffHafenSemaphore.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\SchiffHafenSemaphore\SchiffHafenSemaphore\bin\Debug\SchiffHafenSemaphore.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\SchiffHafenSemaphore\SchiffHafenSemaphore\bin\Debug\SchiffHafenSemaphore.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\SchiffHafenSemaphore\SchiffHafenSemaphore\obj\Debug\SchiffHafenSemaphore.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\SchiffHafenSemaphore\SchiffHafenSemaphore\obj\Debug\SchiffHafenSemaphore.pdb
