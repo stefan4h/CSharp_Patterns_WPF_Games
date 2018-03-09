@@ -1,0 +1,7 @@
+C:\Users\Stefan\Documents\4AHIT\INSY\MESTL\CocktailbarWettbewerbSemaphor\CocktailbarWettbewerbSemaphor\bin\Debug\CocktailbarWettbewerbSemaphor.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CocktailbarWettbewerbSemaphor\CocktailbarWettbewerbSemaphor\bin\Debug\CocktailbarWettbewerbSemaphor.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CocktailbarWettbewerbSemaphor\CocktailbarWettbewerbSemaphor\bin\Debug\CocktailbarWettbewerbSemaphor.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CocktailbarWettbewerbSemaphor\CocktailbarWettbewerbSemaphor\bin\Debug\CocktailbarWettbewerbSemaphor.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CocktailbarWettbewerbSemaphor\CocktailbarWettbewerbSemaphor\obj\Debug\CocktailbarWettbewerbSemaphor.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CocktailbarWettbewerbSemaphor\CocktailbarWettbewerbSemaphor\obj\Debug\CocktailbarWettbewerbSemaphor.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CocktailbarWettbewerbSemaphor\CocktailbarWettbewerbSemaphor\obj\Debug\CocktailbarWettbewerbSemaphor.pdb
