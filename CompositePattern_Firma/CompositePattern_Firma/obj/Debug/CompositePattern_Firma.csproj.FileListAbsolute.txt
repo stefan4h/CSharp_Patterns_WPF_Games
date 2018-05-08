@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CompositePattern_Firma\CompositePattern_Firma\bin\Debug\CompositePattern_Firma.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CompositePattern_Firma\CompositePattern_Firma\bin\Debug\CompositePattern_Firma.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CompositePattern_Firma\CompositePattern_Firma\bin\Debug\CompositePattern_Firma.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CompositePattern_Firma\CompositePattern_Firma\obj\Debug\CompositePattern_Firma.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CompositePattern_Firma\CompositePattern_Firma\obj\Debug\CompositePattern_Firma.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\CompositePattern_Firma\CompositePattern_Firma\obj\Debug\CompositePattern_Firma.pdb
