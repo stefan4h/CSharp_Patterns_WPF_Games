@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\ChainOfResponibility_MailHandler\ChainOfResponibility_MailHandler\bin\Debug\ChainOfResponibility_MailHandler.exe.config
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\ChainOfResponibility_MailHandler\ChainOfResponibility_MailHandler\bin\Debug\ChainOfResponibility_MailHandler.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\ChainOfResponibility_MailHandler\ChainOfResponibility_MailHandler\bin\Debug\ChainOfResponibility_MailHandler.pdb
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\ChainOfResponibility_MailHandler\ChainOfResponibility_MailHandler\obj\Debug\ChainOfResponibility_MailHandler.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\ChainOfResponibility_MailHandler\ChainOfResponibility_MailHandler\obj\Debug\ChainOfResponibility_MailHandler.exe
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\ChainOfResponibility_MailHandler\ChainOfResponibility_MailHandler\obj\Debug\ChainOfResponibility_MailHandler.pdb
