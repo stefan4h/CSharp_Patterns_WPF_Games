@@ -1,0 +1,50 @@
+﻿<catalog>
+  <book>
+  	<id>1</id>
+    <author>Gambardella, Matthew</author>
+    <title>XML Developer's Guide</title>
+    <price>44.95</price>
+  </book>
+  <book>
+  	<id>2</id>
+    <author>Ralls, Kim</author>
+    <title>Midnight Rain</title>
+    <price>5.95</price>
+  </book>
+  <book>
+  	<id>3</id>
+    <author>Corets, Eva</author>
+    <title>Maeve Ascendant</title>
+    <price>5.95</price>
+  </book>
+  <book>
+  	<id>4</id>
+    <author>Corets, Eva</author>
+    <title>Oberon's Legacy</title>
+    <price>5.95</price>
+  </book>
+  <book>
+  	<id>5</id>
+    <author>Corets, Eva</author>
+    <title>The Sundered Grail</title>
+    <price>5.95</price>
+  </book>
+  <book>
+  	<id>6</id>
+    <author>Randall, Cynthia</author>
+    <title>Lover Birds</title>
+    <price>4.95</price>
+  </book>
+  <book>
+  	<id>7</id>
+    <author>Thurman, Paula</author>
+    <title>Splish Splash</title>
+    <price>4.95</price>
+  </book>
+  <book>
+  	<id>8</id>
+    <author>Knorr, Stefan</author>
+    <title>Creepy Crawlies</title>
+    <price>4.95</price>
+  </book>
+</catalog>

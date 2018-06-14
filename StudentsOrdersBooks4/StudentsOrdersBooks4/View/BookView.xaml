@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="StudentsOrdersBooks4.View.BookView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:StudentsOrdersBooks4.View"
+             xmlns:viewModel = "clr-namespace:StudentsOrdersBooks4.ViewModel"
+             xmlns:views = "clr-namespace:StudentsOrdersBooks4.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="280" d:DesignWidth="525">
+    <UserControl.DataContext>
+        <viewModel:BookViewModel/>
+    </UserControl.DataContext>
+
+    <Grid>
+        <StackPanel>
+        <views:ControllBookView x:Name="ControllBookViewControl"/>
+        <StackPanel Orientation="Horizontal">
+            <DataGrid x:Name="bookDataGrid" Height="240" AutoGenerateColumns="False" HorizontalAlignment="Center" EnableRowVirtualization="True" 
+                          ItemsSource="{Binding Path = Books}" RowDetailsVisibilityMode="VisibleWhenSelected" 
+                          Width="auto" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Visible" 
+                          ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                            MouseLeftButtonDown="studentDataGrid_MouseLeftButtonDown" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn x:Name="idColumn" Binding="{Binding Path = Id, Mode = TwoWay}" Header="Id" Width="SizeToHeader"/>
+                    <DataGridTextColumn x:Name="titleColumn" Binding="{Binding Path = title, Mode = TwoWay}" Header="title" Width="SizeToHeader"/>
+                    <DataGridTextColumn x:Name="authorColumn" Binding="{Binding Path = author, Mode = TwoWay}" Header="author" Width="SizeToHeader"/>
+                    <DataGridTextColumn x:Name="priceColumn" Binding="{Binding Path = price, Mode = TwoWay}" Header="price" Width="SizeToHeader"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Grid Width="248" Height="240">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Label Content="Filtern" FontSize="18"/>
+                <ComboBox Name="cbx_filter" Grid.Row="1" Grid.Column="0" Width="auto" Margin="3 0 10 0" SelectedIndex="0" SelectionChanged="cbx_filter_SelectionChanged">
+                    <ComboBoxItem Content="Title"/>
+                    <ComboBoxItem Content="Author"/>
+                </ComboBox>
+                <TextBox Name="txb_filter" Height="25" Grid.Column="1" Grid.Row="1" Width="auto" TextChanged="txb_filter_TextChanged"/>
+                <Label Content="Ändern" Grid.Row="2" FontSize="18"/>
+                <Label Content="Title" Grid.Column="0" Grid.Row="3"/>
+                <TextBox Name="txb_update_title" Height="25" Grid.Column="0" Grid.Row="4" Width="auto"/>
+
+                <Label Content="Author" Grid.Column="1" Grid.Row="3"/>
+                <TextBox Name="txb_update_author" Height="25" Grid.Column="1" Grid.Row="4" Width="auto"/>
+
+                <Label Content="Price" Grid.Column="0" Grid.Row="5"/>
+                <TextBox Name="txb_update_price" Height="25" Grid.Column="0" Grid.Row="6" Width="auto"/>
+
+                <Button Name="btn_delete" Grid.Row="7" Margin="3 0 10 0" Content="Löschen" Visibility="Collapsed" Click="btn_delete_Click"/>
+                <Button Name="btn_update" Grid.Row="70" Grid.Column="1" Margin="10 0 3 0" Content="Updaten" Visibility="Collapsed" Click="btn_update_Click"/>
+            </Grid>
+        </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>
