@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Stefan\Documents\4AHIT\SEW\Programme\StudentsOrdersBooks4\StudentsOrdersBooks4\App.xaml
-5-79880583
+7500392031
 
-19-1321769935
+23-366313860
 18294206366
-MainWindow.xaml;View\BookView.xaml;View\ControllBookView.xaml;View\ControllStudentView.xaml;View\StudentView.xaml;
+MainWindow.xaml;View\BookView.xaml;View\ControllBookView.xaml;View\ControllOrderView.xaml;View\ControllStudentView.xaml;View\OrderView.xaml;View\StudentView.xaml;
 
 False
 

@@ -26,3 +26,7 @@ C:\Users\Stefan\Documents\4AHIT\SEW\Programme\StudentsOrdersBooks4\StudentsOrder
 C:\Users\Stefan\Documents\4AHIT\SEW\Programme\StudentsOrdersBooks4\StudentsOrdersBooks4\obj\Debug\View\BookView.baml
 C:\Users\Stefan\Documents\4AHIT\SEW\Programme\StudentsOrdersBooks4\StudentsOrdersBooks4\obj\Debug\View\ControllBookView.g.cs
 C:\Users\Stefan\Documents\4AHIT\SEW\Programme\StudentsOrdersBooks4\StudentsOrdersBooks4\obj\Debug\View\ControllBookView.baml
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\StudentsOrdersBooks4\StudentsOrdersBooks4\obj\Debug\View\OrderView.g.cs
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\StudentsOrdersBooks4\StudentsOrdersBooks4\obj\Debug\View\OrderView.baml
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\StudentsOrdersBooks4\StudentsOrdersBooks4\obj\Debug\View\ControllOrderView.g.cs
+C:\Users\Stefan\Documents\4AHIT\SEW\Programme\StudentsOrdersBooks4\StudentsOrdersBooks4\obj\Debug\View\ControllOrderView.baml

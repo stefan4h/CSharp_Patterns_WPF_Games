@@ -20,7 +20,11 @@
                     <views:BookView x:Name="BookViewControl"/>
                 </StackPanel>
             </TabItem>
-            <TabItem Header="Bestellungen" />
+            <TabItem Header="Bestellungen">
+                <StackPanel>
+                    <views:OrderView x:Name="OrderViewControl"/>
+                </StackPanel>
+            </TabItem>
         </TabControl>
 
     </Grid>

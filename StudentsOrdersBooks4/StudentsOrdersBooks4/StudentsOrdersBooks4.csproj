@@ -69,8 +69,10 @@
     <Compile Include="Model\FillDatabase.cs" />
     <Compile Include="Model\Repository\BookRepository.cs" />
     <Compile Include="Model\Repository\IRepository.cs" />
+    <Compile Include="Model\Repository\OrderRepository.cs" />
     <Compile Include="Model\Repository\StudentRepository.cs" />
     <Compile Include="ViewModel\BookViewModel.cs" />
+    <Compile Include="ViewModel\OrderViewModel.cs" />
     <Compile Include="ViewModel\StudentViewModel.cs" />
     <Compile Include="View\BookView.xaml.cs">
       <DependentUpon>BookView.xaml</DependentUpon>
@@ -78,8 +80,14 @@
     <Compile Include="View\ControllBookView.xaml.cs">
       <DependentUpon>ControllBookView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\ControllOrderView.xaml.cs">
+      <DependentUpon>ControllOrderView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\ControllStudentView.xaml.cs">
       <DependentUpon>ControllStudentView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\OrderView.xaml.cs">
+      <DependentUpon>OrderView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\StudentView.xaml.cs">
       <DependentUpon>StudentView.xaml</DependentUpon>
@@ -104,7 +112,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="View\ControllOrderView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\ControllStudentView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\OrderView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

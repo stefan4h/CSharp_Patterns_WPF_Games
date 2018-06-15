@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="StudentsOrdersBooks4.View.OrderView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:StudentsOrdersBooks4.View"
+             xmlns:viewModel = "clr-namespace:StudentsOrdersBooks4.ViewModel"
+             xmlns:views = "clr-namespace:StudentsOrdersBooks4.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.DataContext>
+        <viewModel:OrderViewModel/>
+    </UserControl.DataContext>
+
+    <Grid>
+        <StackPanel>
+            <views:ControllOrderView x:Name="ControllOrderViewControl"/>
+            <StackPanel Orientation="Horizontal">
+                <DataGrid x:Name="orderDataGrid" Height="240" AutoGenerateColumns="False" HorizontalAlignment="Center" EnableRowVirtualization="True" 
+                          ItemsSource="{Binding Path = Orders}" RowDetailsVisibilityMode="VisibleWhenSelected" 
+                          Width="auto" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Visible" 
+                          ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                            MouseLeftButtonDown="orderDataGrid_MouseLeftButtonDown" IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn x:Name="idColumn" Binding="{Binding Path = s_id, Mode = TwoWay}" Header="Student ID" Width="SizeToHeader"/>
+                        <DataGridTextColumn x:Name="firstnameColumn" Binding="{Binding Path = b_id, Mode = TwoWay}" Header="Book ID" Width="SizeToHeader"/>
+                        <DataGridTextColumn x:Name="lastnameColumn" Binding="{Binding Path = date, Mode = TwoWay}" Header="Date" Width="SizeToHeader"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Grid Width="248" Height="240">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Button Name="btn_delete" Grid.Row="70" Grid.Column="1" Margin="10 0 3 0" Content="Deleten" Visibility="Collapsed" Click="btn_delete_Click"/>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -29,11 +29,8 @@ namespace StudentsOrdersBooks4.Model.Repository
     {
         IEnumerable<Order> GetOrders();
         Order GetOrderByID(int orderID);
-        Order GetOrderByBookID(int bookID);
-        Order GetOrderByStudentID(int studentID);
         void InsertOrder(Order order);
-        void DeleteOrderByBookID(int bookID);
-        void DeleteOrderByStudentID(int studentID);
+        void DeleteOrder(Order order);
         void UpdateOrder(Order order);
         void Save();
     }
